@@ -19,7 +19,6 @@ class Homework2 {
 		System.out.println("Hello This is first Programme");
 		System.out.println("Hello This is first Programme");
 		System.out.println("Hello This is first Programme");
-		
 
 	}
 }
